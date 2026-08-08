@@ -28,3 +28,4 @@ pytest
 Edit `tests/test_calculator.py` (e.g. change an assertion to something
 false) or `src/calculator.py`, commit, and push to `main` — the Actions
 tab will show a failing run within a minute.
+
